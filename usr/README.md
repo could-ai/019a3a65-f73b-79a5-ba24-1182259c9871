@@ -1,6 +1,6 @@
-# couldai_user_app
+# Kyssem Design Hub
 
-A new Flutter project.
+A new Flutter project for Kyssem Design Hub.
 
 ## Getting Started
 
